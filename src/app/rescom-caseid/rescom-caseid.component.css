@@ -1,0 +1,31 @@
+
+.form-control {
+    padding: 0.200rem 0.75rem;
+}
+.card-header h6{
+    font-size: 14px;
+}
+.btn {
+    padding: 0.200rem 0.75rem;
+}
+.button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  } 
+.but-go {
+    margin-left: 8px;
+    margin-top: -1px;
+    border-radius: 50%;
+}
+.but-go a{
+    text-decoration: none;
+    color: #fff;
+}

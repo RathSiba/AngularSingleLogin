@@ -1,0 +1,20 @@
+form label{
+    font-size: 14px;
+}
+.check-remember{
+    padding: 2px 2px;
+}
+.btn-primary{
+    background-color: #005a9c;
+    border:0;
+}
+.btn-primary a{
+    text-decoration: none;
+    color: #fff;
+}
+.form-control {
+    padding: 0.200rem 0.75rem;
+}
+.btn {
+    padding: 0.200rem 0.75rem;
+}
